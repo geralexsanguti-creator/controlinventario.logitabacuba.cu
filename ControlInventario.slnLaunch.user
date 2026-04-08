@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ControlInventarioApi\\ControlInventarioApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ControlInventarioFrontend\\ControlInventarioFrontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

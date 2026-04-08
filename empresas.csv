@@ -1,0 +1,50 @@
+Id,Nombre,Reeup,Direccion,MunicipioId
+1,OFICINA CENTRAL,NULL,"Calle 19 No. 102 esquina M, vedado",24
+2,LOGISTICA,NULL,"Ave.315 No.16205 e/162ª y 168 Reparto Lugardita",37
+3,CIGARRO SEGUNDO QUINCOSA,NULL,"Calle Reyes e/ Calzada de Luyanó y Mango",31
+4,ETT CARLOS BALIÑO,NULL,"Calle 57 No.13402 e/ 134 y 136, Los Pocitos, Palmar, Marianao",23
+5,ETT EL LAGUITO,NULL,"Calle 146 No. 2302 e/ 21 A y 25",23
+6,ETT HUPMAN,NULL,"Belascoain No. 852 e/ Peñalver y Desagüe",25
+7,ETT LA CORONA,NULL,"20 de mayo No.520 e/ Marta Abreu y línea del Ferrocarril",32
+8,ETT PARTAGAS,NULL,"San Carlos No. 816 esquina Peñalver",25
+9,TABAGEST,NULL,"Calle 5ta. Avenida No.4004 e/ 40y 42, Miramar",23
+10,IMPORTADORA,NULL,"Calle 47 No. 1414 aptos 51 y 52 e/ 14 y 18 Reparto ampliación Almendares",23
+11,CUBATABACO,NULL,"Nueva No. 72 e/ Pedroso y Universidad",32
+12,RAMA,NULL,"Calle 23 No. 1255 e/ 14 y 16, Vedado",24
+13,ENVASES,NULL,"Carretera Vieja de Guanabacoa y Línea del Ferrocarril, Reparto Mañana",28
+14,HABANOS S.A,NULL,"Calle 22 No. 116 e/ 1ra. Y 3ra. Miramar",23
+15,ICT,NULL,"Ave. Independencia No. 34501 e/ 345 y 1ro. De Mayo",37
+16,CONSOLACION DEL SUR,NULL,"Calle 66 No. 5302 e/ 53 y 55",2
+17,ABT GUANE,NULL,"Calle Isabel Rubio No. 224",3
+18,ABT LA PALMA,NULL,"Calle 5ta e/ Pasaje E y Calle La Jibara",4
+19,ABT MANTUA,NULL,"Calle José Marố No. 18-A",6
+20,ABT MINAS,NULL,"Km 31 ½ Carret. A Luis Lazo, Sumidero. Minas",7
+21,TRANSPORTE AGROPECUARIO,NULL,"Gerardo Medina No. 261 e/ Capitán San Luis y Luis Pérez",1
+22,ABT PINAR DEL RIO,NULL,"Km 2 ½ Carretera a Luis Lazo",1
+23,ETT PINAR DEL RIO,NULL,"Calle 3ra. No.6 e/ 2da y D, Reparto Celso Maragoto Lara",1
+24,ABT SAN JUAN,NULL,"San Juan y Marốnez Km1 ½ Carret. Punta de carta",8
+25,ABT SAN LUIS,NULL,"Finca El Corojo",9
+26,ABT SANDINO,NULL,"Km 10 ½ Carret. La Fe, Sandino, Pinar del Rio",10
+27,ABT VIÑALES,NULL,"Km 1 ½ Carret. Cementerio",11
+28,TRONCOSO,NULL,"Avenida Rafael Ferro No. 599 entre Calle C y Anillo No.2",1
+29,ABT LAZARO PEÑA,NULL,"Fca. Parra Carret. San Antonio a Alquizar Km 3 ½",18
+30,ETT ARTEMISA,NULL,"Calle 68 No. 4510 e/ 45 y 47",18
+31,INSTITUTO,NULL,"Carret. del Tumbadero Km 8 ½",18
+32,BRASCUBA SA,NULL,"Vial Norte sur, e/ Vial Costa y Avenida 3, Zona A-4, Sector A",17
+33,RESECADORA,NULL,"Carret. La Salud a Gabriel Km 7 ½, La Salud",48
+34,ABT MATANZAS,NULL,"Camilo Cienfuegos No. 2",56
+35,ABTT CIENFUEGOS,NULL,"Ave. 60 No. 3104 e/31 y 33",57
+36,ETT VILLA CLARA,NULL,"Ciclón No. 28 e/ Padre Chao y Carretera Central",58
+37,ABT LA ESTRELLA,NULL,"Carret. A Sagua No. 266 e/ 2da y 4ta Libertad",63
+38,CIGARRO RAMIRO LAVANDERO,NULL,"Camilo Cienfuegos No. 32 e/ Coronel Acebo y Calixto García",66
+39,ETT SANCTI SPIRITUS,NULL,"Beremundo Paz No. 92 e/ Camilo Cienfuegos y Héctor Castellanos",75
+40,ABT SANCTI SPIRITUS,NULL,"Alfredo López Brito No. 95 e/ Camilo Cienfuegos y Sergio Soto",75
+41,CIGARRO JUAN DE MATA REYES,NULL,"Camilo Cienfuegos No. 312 e/ Pedro Manuel Fritzel y Jesús Menéndez",82
+42,AGROPECUARIA FLORENCIA,NULL,"Carret. Florencia No. 56 Tamarindo",88
+43,ABTT CAMAGUEY,NULL,"Avenida de los Mártires No.222 e/ Julio Sanguili y Gonzalo de Quesada",90
+44,ABTT LAS TUNAS,NULL,"Circunvalación Sur",101
+45,ABTT HOLGUIN,NULL,"Miro No. 261 e/ Angel Guerra y Peralejo",102
+46,CIGARRO LAZARO PEÑA HOLGUIN,NULL,"Avenida Jesús Menéndez s/n, Villa Nueva",102
+47,ABTT GRANMA,NULL,"Cespedes No. 214 esquina a Maso",118
+48,ABTT SANTIAGO DE CUBA,NULL,"San Agutín entre Aguilera y Enramada",134
+49,ABTT ISLA DE LA JUVENTUD,NULL,"Carretera La Fe Km 13 1/2. Los Pinos",166

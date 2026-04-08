@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ControlInventarioApi/ControlInventarioApi.csproj" />
+  <Project Path="ControlInventarioFrontend/ControlInventarioFrontend.csproj" />
+  <Project Path="ControlInventarioShared/ControlInventarioShared.csproj" Id="ae2ae7ac-42e8-41a0-9208-452d1e08e884" />
+</Solution>
